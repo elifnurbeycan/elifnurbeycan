@@ -33,10 +33,10 @@
 
 ---
 
-### 📊 GitHub Stats (Optional)
+### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=elifbycn&show_icons=true&theme=radical" alt="Elif's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elifbycn&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=elifbeycan&show_icons=true&theme=radical" alt="Elif's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elifbeycan&layout=compact&theme=radical" alt="Top Languages" height="165"/>
 </p>
 
 ---
@@ -46,7 +46,7 @@
 - 🧾 **Family Budget Tracker** – A PHP & MySQL project for managing shared expenses with user roles and reporting.
 - 🤖 **ROS2 Robot Controller** – Experimental work with ROS2 and sensor integration in embedded systems.
 
-> 🛠 More projects and source code available on my [GitHub profile](https://github.com/elifbycn)
+> 🛠 More projects and source code available on my [GitHub profile](https://github.com/elifbeycan)
 
 ---
 
