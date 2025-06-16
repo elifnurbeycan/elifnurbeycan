@@ -33,13 +33,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=elifbeycan&show_icons=true&theme=radical" alt="Elif's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elifbeycan&layout=compact&theme=radical" alt="Top Languages" height="165"/>
-</p>
-
----
 
 ### 📌 Featured Projects
 - 🧠 **Real-Time Syntax Highlighter** – A GUI-based tool for live code highlighting using lexer & parser logic.
