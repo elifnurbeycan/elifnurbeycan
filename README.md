@@ -84,6 +84,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/elifnurbeycan/elifnurbeycan/output/snake.svg" alt="Snake animation" style="width:100%; max-width:100%;" />
-
-###
