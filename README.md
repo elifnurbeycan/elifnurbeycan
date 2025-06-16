@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDNkazB0NG54Z3h3cmtuNm56dXMzdXI2YjQ4aGhuenV3a2NlbWg3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.gif"  />
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDNkazB0NG54Z3h3cmtuNm56dXMzdXI2YjQ4aGhuenV3a2NlbWg3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.gif"  />
 </div>
 
 ###
@@ -80,11 +80,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/elifnurbeycan/elifnurbeycan/output/pacman-contribution-graph-dark.svg" alt="Pacman contribution graph (dark)" width="500" />
+<img src="https://raw.githubusercontent.com/elifnurbeycan/elifnurbeycan/output/pacman-contribution-graph-dark.svg" alt="Pacman contribution graph (dark)" style="width:100%; max-width:100%;" />
 
 ###
 
-<img src="https://raw.githubusercontent.com/elifnurbeycan/elifnurbeycan/output/snake.svg" alt="Snake animation" width="500" />
+<img src="https://raw.githubusercontent.com/elifnurbeycan/elifnurbeycan/output/snake.svg" alt="Snake animation" style="width:100%; max-width:100%;" />
 
 ###
-
