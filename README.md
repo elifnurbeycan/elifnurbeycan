@@ -1,42 +1,81 @@
-# Hello 👋, I'm Elif Nur Beycan
-### Computer Engineering
+<br clear="both">
 
-Merhaba! Ben Elif Nur Beycan, Bursa Teknik Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Yazılım geliştirme alanında özellikle frontend teknolojilerine ilgi duyuyorum. Kullanıcı dostu ve işlevsel arayüzler oluşturmayı seviyorum.
+<div align="center">
+  <img height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDNkazB0NG54Z3h3cmtuNm56dXMzdXI2YjQ4aGhuenV3a2NlbWg3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.gif"  />
+</div>
 
-Akademik hayatımda hem teorik hem de pratik bilgiyi birleştirerek projeler geliştiriyorum. Şu anda Flutter ve ROS2 gibi teknolojileri öğreniyorum. Gerçek dünya problemlerine çözüm üreten projelerde yer almak beni motive ediyor.
+###
 
-Yeni teknolojilere meraklıyım ve kendimi sürekli geliştirmeyi hedefliyorum. Takım çalışmasına yatkın, detaylara önem veren ve öğrenmeye açık biriyim.
+<h1 align="left">Hey 👋</h1>
 
-## Contact Me
-<p><a href="https://www.linkedin.com/in/elif-beycan-a4b233295/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://medium.com/@elif.bycn35" target="_blank"><img src="https://img.shields.io/badge/Medium-%23000000.svg?&style=flat-square&logo=medium&logoColor=white" alt="Medium"></a> <a href="https://www.youtube.com/@elifbeycan3311" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a> </p>
+###
 
-## Skills
+<p align="left">My name is Elif Nur Beycan and I'm a Computer Engineering student at Bursa Technical Universty</p>
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="c" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="xampp" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>&nbsp;
-</p>
+###
 
-## GitHub Stats
+<h2 align="left">About me</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=elifnurbeycan&show_icons=true&count_private=true&theme=null" alt="GitHub İstatistikleri" />
+###
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elifnurbeycan&layout=compact&theme=null" alt="En Çok Kullanılan Diller" />
+<p align="left">📚 I'm currently learning Flutter for mobile development and ROS2 for robotics.<br>🎯 Goals:<br>- Develop full-stack web applications 💻<br>- Build functional mobile apps with Flutter 📱<br>- Create smart systems using embedded tech and robotics 🤖<br>- Improve my open-source contributions on GitHub 🌍</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=elifnurbeycan&theme=null" alt="GitHub Streak" />
+###
 
-## GitHub Activity Graph
+<h2 align="left">I code with</h2>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=elifnurbeycan&radius=16&theme=rogue&area=true&order=5" height="300" alt="activity-graph" />
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
+</div>
+
+###
+
+<h3 align="left">Social</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/elif-beycan-a4b233295/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@elifbeycan3311" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://medium.com/@elif.bycn35" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+  </a>
+</div>
+
+###
