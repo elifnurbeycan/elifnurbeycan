@@ -1,94 +1,78 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDNkazB0NG54Z3h3cmtuNm56dXMzdXI2YjQ4aGhuenV3a2NlbWg3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.gif"  />
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDNkazB0NG54Z3h3cmtuNm56dXMzdXI2YjQ4aGhuenV3a2NlbWg3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.gif" />
 </div>
 
-###
-
-<h1 align="left">Hey 👋</h1>
-
-###
-
-<p align="left">My name is Elif Nur Beycan and I'm a Computer Engineering student at Bursa Technical Universty</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
+<h1 align="left">Hi, I'm Elif 👋</h1>
 
 <p align="left">
-📚 I'm currently learning Flutter for mobile development and ROS2 for robotics.<br>
-🎯 Goals:<br>
-- Develop full-stack web applications 💻<br>
-- Build functional mobile apps with Flutter 📱<br>
-- Create smart systems using embedded tech and robotics 🤖<br>
-- Improve my open-source contributions on GitHub 🌍
+Computer Engineering student at <b>Bursa Technical University</b><br>
+Interested in <b>Embedded Systems, Autonomous Robotics, Networking and Intelligent Systems</b>
 </p>
 
-###
+<h2 align="left">🧭 About Me</h2>
 
-<h2 align="left">I code with</h2>
+<p align="left">
+I focus on building <b>systems that interact with the real world</b>.
+My main interest lies at the intersection of <b>software, hardware, and intelligent decision-making</b>.
+<br><br>
+I am a <b>curious and adaptable learner</b> who actively keeps up with emerging technologies,
+continuously refining both theoretical knowledge and practical skills.
+I enjoy exploring new tools, frameworks, and approaches, and integrating them into my workflow
+to improve how systems are designed and implemented.
+<br><br>
+I value understanding <b>how and why</b> things work, not just making them work.
+</p>
 
-###
+<h2 align="left">🎯 Current Focus Areas</h2>
+
+<ul>
+  <li>🤖 Autonomous & mobile robotic systems</li>
+  <li>📡 Wireless communication & QoS-aware systems</li>
+  <li>⚙️ Embedded & real-time system design</li>
+  <li>🧠 Machine Learning & Reinforcement Learning for engineering problems</li>
+  <li>🖥️ Linux-based systems & server fundamentals</li>
+</ul>
+
+<h2 align="left">🛠️ Tech Stack</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40"/>
 </div>
 
-###
-
-<h3 align="left">Social</h3>
-
-###
+<h2 align="left">🌐 Connect</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/elif-beycan-a4b233295/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40"/>
   </a>
   <a href="https://www.youtube.com/@elifbeycan3311" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40"/>
   </a>
   <a href="https://medium.com/@elif.bycn35" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40"/>
   </a>
 </div>
 
-###
-
-<img src="https://github.com/elifnurbeycan/elifnurbeycan/blob/main/output/pacman-contribution-graph-dark.svg?raw=true"
-     alt="Pacman contribution graph (dark)"
+<img src="https://raw.githubusercontent.com/elifnurbeycan/elifnurbeycan/output/pacman-contribution-graph-dark.svg"
+     alt="Pacman contribution graph"
      style="width:100%; max-width:100%;" />
-
-###
