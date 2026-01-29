@@ -17,15 +17,12 @@ Interested in <b>Embedded Systems, Autonomous Robotics, Networking and Intellige
 I focus on building <b>systems that interact with the real world</b>.
 My main interest lies at the intersection of <b>software, hardware, and intelligent decision-making</b>.
 <br><br>
-I enjoy working on problems where constraints matter — limited energy, real-time response,
-communication reliability, and system safety.
+I am a <b>curious and adaptable learner</b> who actively keeps up with emerging technologies,
+continuously refining both theoretical knowledge and practical skills.
+I enjoy exploring new tools, frameworks, and approaches, and integrating them into my workflow
+to improve how systems are designed and implemented.
 <br><br>
-Rather than isolated code, I care about:
-<ul>
-  <li>how systems behave in dynamic environments</li>
-  <li>how software and hardware influence each other</li>
-  <li>how intelligent mechanisms improve efficiency and reliability</li>
-</ul>
+I value understanding <b>how and why</b> things work, not just making them work.
 </p>
 
 <h2 align="left">🎯 Current Focus Areas</h2>
