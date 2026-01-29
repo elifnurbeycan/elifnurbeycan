@@ -73,6 +73,7 @@ I value understanding <b>how and why</b> things work, not just making them work.
   </a>
 </div>
 
-<img src="https://raw.githubusercontent.com/elifnurbeycan/elifnurbeycan/output/pacman-contribution-graph-dark.svg"
+<img src="https://github.com/elifnurbeycan/elifnurbeycan/blob/main/output/pacman-contribution-graph-dark.svg?raw=true"
      alt="Pacman contribution graph"
      style="width:100%; max-width:100%;" />
+
