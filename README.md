@@ -65,7 +65,7 @@ I value understanding <b>how and why</b> things work, not just making them work.
   <a href="https://www.linkedin.com/in/elif-beycan-a4b233295/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40"/>
   </a>
-  <a href="https://www.youtube.com/@elifbeycan3311" target="_blank">
+  <a href="https://www.youtube.com/@elifbeycan1" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40"/>
   </a>
   <a href="https://medium.com/@elif.bycn35" target="_blank">
