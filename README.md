@@ -56,7 +56,6 @@ My work focuses on integrating sensors, processing data, and building adaptive s
 </ul>
 
 ---
-
 <h2 align="left">🛠️ Tech Stack</h2>
 
 <div align="left">
@@ -66,7 +65,14 @@ My work focuses on integrating sensors, processing data, and building adaptive s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
-  
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+
+  <img width="20"/>
+
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+
   <img width="20"/>
 
   <!-- Systems -->
