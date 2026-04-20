@@ -52,6 +52,7 @@ My work focuses on integrating sensors, processing data, and building adaptive s
   <li>⚙️ Embedded & real-time system design</li>
   <li>🧠 Machine Learning & Reinforcement Learning for engineering problems</li>
   <li>🖥️ Linux-based systems & server fundamentals</li>
+  <li>🔐 Cybersecurity fundamentals & network security</li>
 </ul>
 
 ---
