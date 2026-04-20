@@ -8,22 +8,41 @@
 
 <p align="left">
 Computer Engineering student at <b>Bursa Technical University</b><br>
-Interested in <b>Embedded Systems, Autonomous Robotics, Networking and Intelligent Systems</b>
+Building systems at the intersection of <b>Embedded Systems, Robotics, Networking and Intelligent Systems</b>
 </p>
 
-<h2 align="left">🧭 About Me</h2>
+---
+
+<h2 align="left">⚡ What I Build</h2>
 
 <p align="left">
-I focus on building <b>systems that interact with the real world</b>.
-My main interest lies at the intersection of <b>software, hardware, and intelligent decision-making</b>.
+I design and implement systems that interact with the real world by combining <b>embedded hardware, real-time communication, and intelligent decision-making</b>.
 <br><br>
-I am a <b>curious and adaptable learner</b> who actively keeps up with emerging technologies,
-continuously refining both theoretical knowledge and practical skills.
-I enjoy exploring new tools, frameworks, and approaches, and integrating them into my workflow
-to improve how systems are designed and implemented.
-<br><br>
-I value understanding <b>how and why</b> things work, not just making them work.
+My work focuses on integrating sensors, processing data, and building adaptive systems using <b>ROS2, IoT architectures, and machine learning</b>.
 </p>
+
+---
+
+<h2 align="left">🚀 Featured Projects</h2>
+
+<ul>
+  <li>
+    <b>🔋 EnerBLE – Smart BLE Energy Optimization</b><br>
+    Machine learning-based adaptive power management system for BLE IoT devices that dynamically balances energy consumption and connection quality (QoS).
+  </li>
+
+  <li>
+    <b>🤖 Autonomous AGV System</b><br>
+    ROS2-based robotic system integrating sensor data and real-time communication between embedded devices and control interface.
+  </li>
+
+  <li>
+    <b>📡 IMU ROS2 Integration</b><br>
+    Sensor data acquisition (ADXL345 + ITG3200) and publishing to ROS2 topics for real-time visualization and analysis.
+  </li>
+</ul>
+
+---
 
 <h2 align="left">🎯 Current Focus Areas</h2>
 
@@ -34,6 +53,8 @@ I value understanding <b>how and why</b> things work, not just making them work.
   <li>🧠 Machine Learning & Reinforcement Learning for engineering problems</li>
   <li>🖥️ Linux-based systems & server fundamentals</li>
 </ul>
+
+---
 
 <h2 align="left">🛠️ Tech Stack</h2>
 
@@ -59,6 +80,21 @@ I value understanding <b>how and why</b> things work, not just making them work.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40"/>
 </div>
 
+---
+
+<h2 align="left">🧭 About Me</h2>
+
+<p align="left">
+I am a <b>curious and adaptable engineer</b> who actively explores emerging technologies and applies them in real projects.
+<br><br>
+I focus on understanding <b>how and why systems work</b>, not just making them work.
+This mindset allows me to design more efficient, scalable, and intelligent solutions.
+<br><br>
+I enjoy working across both <b>software and hardware layers</b>, building systems that are not only functional but also optimized and well-structured.
+</p>
+
+---
+
 <h2 align="left">🌐 Connect</h2>
 
 <div align="left">
@@ -72,5 +108,3 @@ I value understanding <b>how and why</b> things work, not just making them work.
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40"/>
   </a>
 </div>
-
-
