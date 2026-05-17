@@ -8,7 +8,7 @@
 
 <p align="left">
 Computer Engineering student at <b>Bursa Technical University</b><br>
-Building systems at the intersection of <b>Embedded Systems, Robotics, Networking and Intelligent Systems</b>
+Interested in <b>Backend Development, Cybersecurity, Embedded Systems, Networking and Intelligent Systems</b>
 </p>
 
 ---
@@ -16,9 +16,9 @@ Building systems at the intersection of <b>Embedded Systems, Robotics, Networkin
 <h2 align="left">⚡ What I Build</h2>
 
 <p align="left">
-I design and implement systems that interact with the real world by combining <b>embedded hardware, real-time communication, and intelligent decision-making</b>.
+I build backend services, embedded systems, and intelligent applications by combining <b>software development, real-time communication, and system integration</b>.
 <br><br>
-My work focuses on integrating sensors, processing data, and building adaptive systems using <b>ROS2, IoT architectures, and machine learning</b>.
+My projects focus on <b>RESTful APIs, Linux-based systems, networking, ROS2 architectures, and adaptive decision-making systems</b>.
 </p>
 
 ---
@@ -27,18 +27,23 @@ My work focuses on integrating sensors, processing data, and building adaptive s
 
 <ul>
   <li>
-    <b>🔋 EnerBLE – Smart BLE Energy Optimization</b><br>
-    Machine learning-based adaptive power management system for BLE IoT devices that dynamically balances energy consumption and connection quality (QoS).
+    <b>📂 TNote File Service</b><br>
+    Backend-based file management service built with Node.js, Express.js, and PostgreSQL featuring RESTful API architecture and PDF processing.
   </li>
 
   <li>
     <b>🤖 Autonomous AGV System</b><br>
-    ROS2-based robotic system integrating sensor data and real-time communication between embedded devices and control interface.
+    ROS2-based robotic system integrating sensor data, embedded devices, and real-time communication infrastructure.
   </li>
 
   <li>
-    <b>📡 IMU ROS2 Integration</b><br>
-    Sensor data acquisition (ADXL345 + ITG3200) and publishing to ROS2 topics for real-time visualization and analysis.
+    <b>🔋 EnerBLE – Smart BLE Energy Optimization</b><br>
+    Machine learning-based adaptive power management system for BLE IoT devices balancing energy efficiency and connection quality.
+  </li>
+
+  <li>
+    <b>🎮 Gladiator Duel – Reinforcement Learning Game AI</b><br>
+    Turn-based strategy game developed with Unity featuring a Q-Learning based adaptive AI agent.
   </li>
 </ul>
 
@@ -47,18 +52,20 @@ My work focuses on integrating sensors, processing data, and building adaptive s
 <h2 align="left">🎯 Current Focus Areas</h2>
 
 <ul>
-  <li>🤖 Autonomous & mobile robotic systems</li>
-  <li>📡 Wireless communication & QoS-aware systems</li>
-  <li>⚙️ Embedded & real-time system design</li>
-  <li>🧠 Machine Learning & Reinforcement Learning for engineering problems</li>
-  <li>🖥️ Linux-based systems & server fundamentals</li>
+  <li>🖥️ Backend Development & RESTful API Design</li>
   <li>🔐 Cybersecurity fundamentals & network security</li>
+  <li>📡 Networking & communication systems</li>
+  <li>⚙️ Embedded & real-time system design</li>
+  <li>🤖 Autonomous & robotic systems</li>
+  <li>🐧 Linux-based systems & server technologies</li>
 </ul>
 
 ---
+
 <h2 align="left">🛠️ Tech Stack</h2>
 
 <div align="left">
+
   <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
   <img width="12"/>
@@ -67,11 +74,19 @@ My work focuses on integrating sensors, processing data, and building adaptive s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
 
   <img width="20"/>
 
   <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
 
   <img width="20"/>
 
@@ -79,6 +94,8 @@ My work focuses on integrating sensors, processing data, and building adaptive s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
 
   <img width="20"/>
 
@@ -86,6 +103,7 @@ My work focuses on integrating sensors, processing data, and building adaptive s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40"/>
+
 </div>
 
 ---
@@ -93,12 +111,11 @@ My work focuses on integrating sensors, processing data, and building adaptive s
 <h2 align="left">🧭 About Me</h2>
 
 <p align="left">
-I am a <b>curious and adaptable engineer</b> who actively explores emerging technologies and applies them in real projects.
+I am a curious and adaptable engineering student who enjoys building systems across both software and hardware layers.
 <br><br>
-I focus on understanding <b>how and why systems work</b>, not just making them work.
-This mindset allows me to design more efficient, scalable, and intelligent solutions.
+My interests include backend development, cybersecurity, networking, embedded systems, and intelligent real-time applications.
 <br><br>
-I enjoy working across both <b>software and hardware layers</b>, building systems that are not only functional but also optimized and well-structured.
+I enjoy learning new technologies, solving technical problems, and working collaboratively on scalable and efficient systems.
 </p>
 
 ---
@@ -109,9 +126,11 @@ I enjoy working across both <b>software and hardware layers</b>, building system
   <a href="https://www.linkedin.com/in/elif-beycan-a4b233295/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40"/>
   </a>
+
   <a href="https://www.youtube.com/@elifbeycan1" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40"/>
   </a>
+
   <a href="https://medium.com/@elif.bycn35" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40"/>
   </a>
