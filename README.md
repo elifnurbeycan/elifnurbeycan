@@ -55,7 +55,7 @@ Arcade-style space shooter game project focused on gameplay flow, player feedbac
 - Strengthened my interest in how game feel, visuals and difficulty affect player engagement.
 - Especially relevant to my goal of learning more about mobile games, creative testing and player-centered growth.
 
-### Gladiator Duel - Reinforcement Learning Game AI
+### [Gladiator Duel - Reinforcement Learning Game AI](https://github.com/elifnurbeycan/GladiatorDuel_AI)
 
 Turn-based strategy game developed with Unity and a Q-Learning based adaptive AI agent.
 
