@@ -37,29 +37,23 @@ I am a Computer Engineering student at Bursa Technical University who enjoys bui
 
 ## Featured Projects
 
-### TNote File Service
+### [SafeWorker](https://github.com/elifnurbeycan/SafeWorker)
 
-Backend-based file management service built with Node.js, Express.js and PostgreSQL.
+Full-stack worker safety MVP that uses mobile devices as IoT endpoints for real-time risk detection and monitoring.
 
-- Designed RESTful API architecture for file operations.
-- Worked with database-backed service logic and PDF processing.
-- Focused on clean backend structure, reliability and maintainability.
+- Built a system with Node.js/Express backend, React dashboard and Flutter mobile app.
+- Collected and processed mobile sensor signals such as accelerometer, gyroscope, GPS, battery and network status.
+- Implemented risk scoring, SOS alerts, QR-based danger zone flows, real-time Socket.IO notifications and CSV reporting.
+- Shows my ability to design a practical product with backend logic, live data, dashboard UX and mobile interaction.
 
-### Autonomous AGV System
+### [Galactic Shooter 2D](https://github.com/elifnurbeycan/Galactic-Shooter-2D)
 
-ROS2-based robotic system integrating embedded devices, sensors and real-time communication.
+Arcade-style space shooter game project focused on gameplay flow, player feedback and interactive mechanics.
 
-- Worked on system integration across robotics, networking and hardware layers.
-- Used ROS2 concepts for modular communication between components.
-- Built experience with real-time constraints and practical engineering trade-offs.
-
-### EnerBLE - Smart BLE Energy Optimization
-
-Machine learning-based adaptive power management system for BLE IoT devices.
-
-- Explored the balance between energy efficiency and connection quality.
-- Used adaptive decision-making logic for resource-aware communication.
-- Strengthened my interest in optimization, metrics and system performance.
+- Developed game logic around movement, shooting, enemies, scoring and responsive player interaction.
+- Worked on core game loop thinking: challenge, pacing, feedback and replay motivation.
+- Strengthened my interest in how game feel, visuals and difficulty affect player engagement.
+- Especially relevant to my goal of learning more about mobile games, creative testing and player-centered growth.
 
 ### Gladiator Duel - Reinforcement Learning Game AI
 
@@ -69,6 +63,23 @@ Turn-based strategy game developed with Unity and a Q-Learning based adaptive AI
 - Applied reinforcement learning concepts in an interactive game environment.
 - Connected my interest in games with intelligent systems and experimentation.
 
+### [Credit Card Default Prediction](https://github.com/elifnurbeycan/credit-card-default-prediction)
+
+Machine learning project using the UCI credit card default dataset to predict customer default risk.
+
+- Worked through EDA, preprocessing, feature engineering, Random Forest modeling and hyperparameter optimization.
+- Created features such as average delay, total bill, total payment and payment ratio to improve model insight.
+- Evaluated the model with accuracy, ROC-AUC, precision, recall and F1-score.
+- Supports my interest in data analysis, metrics and decision-making with measurable outcomes.
+
+### [NetProbe - UDP Reliable File Transfer](https://github.com/elifnurbeycan/NetProbe-UDP-Reliable-File-Transfer)
+
+Networking project focused on reliable file transfer behavior over UDP.
+
+- Explored transport-level reliability concepts beyond basic protocol usage.
+- Strengthened my understanding of packets, delivery guarantees, network behavior and debugging.
+- Adds a systems and networking layer to my backend and product engineering skill set.
+
 ---
 
 ## Current Focus
@@ -77,6 +88,7 @@ Turn-based strategy game developed with Unity and a Q-Learning based adaptive AI
 - Mobile gaming industry, user acquisition and growth fundamentals
 - Campaign performance concepts: CPI, retention, LTV, ROAS and creative testing
 - A/B testing, segmentation and data-informed product decisions
+- Data analysis, model evaluation and product metrics
 - Cybersecurity fundamentals and network security
 - Embedded systems, IoT and real-time communication
 - Linux-based systems and server technologies
@@ -97,8 +109,11 @@ Turn-based strategy game developed with Unity and a Q-Learning based adaptive AI
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ### Systems, Tools and Robotics
 
@@ -111,6 +126,8 @@ Turn-based strategy game developed with Unity and a Q-Learning based adaptive AI
 
 ### Growth and Analytics Interests
 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=flat-square&logo=googleads&logoColor=white)
 ![Meta](https://img.shields.io/badge/Meta%20Ads-0467DF?style=flat-square&logo=meta&logoColor=white)
 ![TikTok](https://img.shields.io/badge/TikTok%20Ads-000000?style=flat-square&logo=tiktok&logoColor=white)
@@ -144,4 +161,3 @@ Turn-based strategy game developed with Unity and a Q-Learning based adaptive AI
 - LinkedIn: [elif-beycan-a4b233295](https://www.linkedin.com/in/elif-beycan-a4b233295/)
 - Medium: [@elif.bycn35](https://medium.com/@elif.bycn35)
 - YouTube: [@elifbeycan1](https://www.youtube.com/@elifbeycan1)
-
