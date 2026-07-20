@@ -2,9 +2,9 @@
 
 # Hi, I'm Elif Nur Beycan 👋
 
-### Computer Engineering Student | Backend Development | Java & Spring Boot
+### Computer Engineering Student | Backend Development | IoT | Cybersecurity & Networking
 
-I am a Computer Engineering student at Bursa Technical University. I enjoy building practical software, learning how reliable backend systems are designed, and turning ideas into working products. My current focus is Java, Spring Boot, REST APIs, relational databases, and secure application architecture.
+I am a Computer Engineering student at Bursa Technical University. I enjoy building practical software, learning how reliable and secure systems are designed, and turning ideas into working products. My current interests include Java and Spring Boot backend development, IoT systems, cybersecurity, computer networks, and secure application architecture.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Elif%20Beycan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elif-beycan-a4b233295/)
 [![Medium](https://img.shields.io/badge/Medium-elif.bycn35-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@elif.bycn35)
@@ -19,7 +19,10 @@ I am a Computer Engineering student at Bursa Technical University. I enjoy build
 - 🎓 Studying Computer Engineering at Bursa Technical University
 - ☕ Currently developing backend applications with **Java and Spring Boot**
 - 🧩 Interested in RESTful API design, database modeling, authentication, authorization, and clean architecture
-- 🌐 Experienced with projects involving web, mobile, IoT, networking, machine learning, and game development
+- 📡 Interested in **IoT and embedded systems**, including sensors, BLE, mobile devices, Arduino, and Raspberry Pi
+- 🔐 Improving my knowledge of **cybersecurity**, secure software development, authentication, and network security
+- 🌐 Interested in **computer networks**, communication protocols, real-time systems, and reliable data transfer
+- 🛠️ Experienced with projects involving web, mobile, IoT, networking, machine learning, and game development
 - 🌱 Continuously improving my knowledge of software engineering principles, testing, Docker, and Linux
 - 🤝 I enjoy learning through teamwork and building solutions to real-world problems
 
@@ -138,23 +141,15 @@ A networking project exploring reliable file transfer, packet delivery, and tran
 - Writing unit and integration tests
 - Containerizing applications with Docker
 - Improving backend performance, security, and observability
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Elif's GitHub stats](https://github-readme-stats.vercel.app/api?username=elifnurbeycan&show_icons=true&hide_border=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elifnurbeycan&layout=compact&hide_border=true&theme=default)
-
-</div>
+- Developing IoT solutions using sensors, embedded devices, and real-time communication
+- Deepening my knowledge of computer networks and communication protocols
+- Learning cybersecurity fundamentals, network security, and secure coding practices
 
 ---
 
 ## Contact
 
+- [GitHub](https://github.com/elifnurbeycan)
 - [LinkedIn](https://www.linkedin.com/in/elif-beycan-a4b233295/)
 - [Medium](https://medium.com/@elif.bycn35)
 - [YouTube](https://www.youtube.com/@elifbeycan1)
