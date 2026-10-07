@@ -71,6 +71,24 @@ A full-stack worker-safety MVP that uses mobile devices as IoT endpoints for rea
 - Added real-time Socket.IO notifications and CSV reporting.
 - Combined backend logic, live data processing, dashboard UX, and mobile interaction in a practical safety product.
 
+### [SIRIUS Autonomous Mobile Forklift](https://github.com/elifnurbeycan/sirius-autonomous-forklift)
+
+An autonomous mobile forklift developed for the TEKNOFEST 2026 Robotics in Industry Competition, where our team ranked 6th among 30 finalists.
+
+- Worked on PLC/FMS communication, sensor data integration, and the web control interface.
+- Processed WebSocket and JSON task messages and integrated them with the ROS 2 task flow.
+- Developed frontend components with HTML, CSS, and JavaScript, and backend functionality with Python and Flask.
+- Contributed to real-time vehicle monitoring, field integration, and communication tests.
+
+### [SpyderRobot — Hexapod Walking Robot](https://github.com/elifnurbeycan/SpyderRobot)
+
+A six-legged robot with 18 servo motors, developed through simulation and real-world walking tests.
+
+- Worked on the simulation and optimization phase using Webots.
+- Tested walking behavior and observed individual joint movements.
+- Optimized gait parameters to achieve more stable robot movement.
+- Contributed to transferring the simulated walking behavior to the physical robot.
+
 ### [Galactic Shooter 2D](https://github.com/elifnurbeycan/Galactic-Shooter-2D)
 
 An arcade-style space shooter focused on responsive gameplay, scoring, enemy behavior, and player feedback.
