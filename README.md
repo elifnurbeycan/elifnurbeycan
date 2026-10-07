@@ -2,9 +2,9 @@
 
 # Hi, I'm Elif Nur Beycan 👋
 
-### Computer Engineering Student | Backend Development | IoT | Cybersecurity & Networking
+### Computer Engineering Student | Java & Spring Boot Backend Development | IoT & Robotics
 
-I am a Computer Engineering student at Bursa Technical University. I enjoy building practical software, learning how reliable and secure systems are designed, and turning ideas into working products. My current interests include Java and Spring Boot backend development, IoT systems, cybersecurity, computer networks, and secure application architecture.
+I am a Computer Engineering student at Bursa Technical University and a long-term intern in the Java Software Development department at Yaşar Bilgi. My main focus is building secure and maintainable backend systems with **Java and Spring Boot**. I also work on IoT, robotics, computer networks, and real-time communication projects.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Elif%20Beycan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elif-beycan-a4b233295/)
 [![Medium](https://img.shields.io/badge/Medium-elif.bycn35-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@elif.bycn35)
@@ -17,7 +17,7 @@ I am a Computer Engineering student at Bursa Technical University. I enjoy build
 ## About Me
 
 - 🎓 Studying Computer Engineering at Bursa Technical University
-- ☕ Currently developing backend applications with **Java and Spring Boot**
+- ☕ Developing backend applications with **Java 21, Spring Boot, Spring Security, and Spring Data JPA**
 - 🧩 Interested in RESTful API design, database modeling, authentication, authorization, and clean architecture
 - 📡 Interested in **IoT and embedded systems**, including sensors, BLE, mobile devices, Arduino, and Raspberry Pi
 - 🔐 Improving my knowledge of **cybersecurity**, secure software development, authentication, and network security
@@ -28,23 +28,38 @@ I am a Computer Engineering student at Bursa Technical University. I enjoy build
 
 ---
 
-## Currently Working On
+## Java & Spring Boot Projects
 
-### Meeting Room Management System
+### [Visitor & Meeting Room Management System](https://github.com/elifnurbeycan/visitor-meeting-management)
 
-A role- and permission-based meeting room reservation system designed with a secure, maintainable backend architecture.
+A multi-tenant SaaS backend developed with **Java 21 and Spring Boot** for company-wide meeting room reservations.
 
-- Building the backend with **Java 21 and Spring Boot**
-- Designing REST APIs for users, rooms, room features, reservations, calendars, and reports
-- Using **Spring Security** for authentication and permission-based authorization
-- Modeling relational data with **Spring Data JPA and PostgreSQL**
-- Managing database changes with **Flyway migrations**
-- Implementing reservation conflict checks, ownership rules, validation, and audit logging
-- Following a feature-based package structure and layered architecture
+- Designed REST APIs for companies, users, rooms, reservations, notifications, audit logs, and reporting.
+- Implemented JWT authentication and granular authorization with Spring Security.
+- Used PostgreSQL, Spring Data JPA, Redis, Flyway, MapStruct, and Apache POI.
+- Added tenant isolation, reservation conflict checks, rate limiting, audit logging, and automated tests.
+
+### [ATS — Applicant Tracking System](https://github.com/elifnurbeycan/ats-system)
+
+A multi-tenant applicant tracking backend for managing candidates, positions, interviews, and recruitment workflows.
+
+- Built with Java 21, Spring Boot, Spring Security, and PostgreSQL.
+- Integrated Keycloak using OAuth 2.0, OpenID Connect, and JWT authentication.
+- Implemented company and department-based data isolation with role and permission-based authorization.
+- Used Flyway, Hibernate, MapStruct, JUnit 5, MockMvc, and Docker-based development services.
+
+### [Announcement Tracker](https://github.com/elifnurbeycan/announcement-tracker)
+
+A Spring Boot application that monitors official announcement sources and sends relevant updates to employees.
+
+- Developed independent web-scraping strategies with Jsoup and scheduled parallel source scanning.
+- Implemented Keycloak-based identity management and role-based access control.
+- Used PostgreSQL, Spring Data JPA, Liquibase, email outbox processing, and retry handling.
+- Added integration and end-to-end tests with Testcontainers and Playwright.
 
 ---
 
-## Featured Projects
+## Other Featured Projects
 
 ### [SafeWorker](https://github.com/elifnurbeycan/SafeWorker)
 
